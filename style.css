@@ -1,0 +1,98 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.name{
+    color:orange;
+}
+h1{
+    font-size: 50px;
+}
+
+
+section{
+    height: 500px;
+    margin-bottom: 150px;
+}
+
+
+.hallf_wdith
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.hallf_wdith img{
+    width: 80%;
+}
+
+.top_banner{
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.anchor_btn{
+    text-decoration: none;
+    background:linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    padding: 10px 40px;
+}
+
+.Dream-area{
+
+    background-image: url(/images/dream-bg.png);
+     background-repeat: no-repeat;
+   background-position: right;   
+
+}
+.container
+{
+    display: inline-block;
+
+}
+
+.experiecnce_title{
+    color: orange;
+}
+.experience-area div{
+    height: 80%;
+    box-shadow: 5px 7px 40px gray;
+}
+
+#baby_stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(
+180deg
+, blue, cyan);
+    border-image-slice: 1;
+}
+
+#full_stack
+
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(
+180deg
+, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+ 
+
+.experiences_header{
+    font-size: 36px;
+    padding-bottom: 10px;
+}
+
+.experience-area{
+    background-image: url(/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.footer_main
+{
+    text-align: center;
+}
